@@ -17,7 +17,7 @@
 
 ## WEB DASHBOARD
 
-![](two.png)
+![](one.png)
 
 
 
